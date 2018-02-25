@@ -1,0 +1,6 @@
+framework module Pods_VoterReach {
+  umbrella header "Pods-VoterReach-umbrella.h"
+
+  export *
+  module * { export * }
+}
